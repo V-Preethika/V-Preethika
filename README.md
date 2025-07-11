@@ -22,7 +22,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL (XAMPP)](https://img.shields.io/badge/-MySQL%20via%20XAMPP-4479A1?style=flat&logo=mysql&logoColor=white)
 ![ML Models](https://img.shields.io/badge/-ML%20Models-4B8BBE?style=flat)
 
 ---
