@@ -2,7 +2,7 @@
 
 🎓 B.Tech AIML Student at **Vel Tech R&D Institute of Science and Technology**  
 💡 Passionate about Artificial Intelligence, Machine Learning, and Real-world Tech Applications  
-📊 Data Analytics Enthusiast | 🤖 Deep Learning Learner | 🧠 Prompt Engineering Explorer  
+🤖 AI/ML Enthusiast | 🧠 Deep Learning Learner | ✨ Exploring Real-World AI Applications  
 
 ---
 
