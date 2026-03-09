@@ -33,7 +33,7 @@
 An AI-powered dietary analysis app that provides food suggestions using ML + NLP techniques  
 > Tools: Python, Random Forest, NLP, Streamlit
 
-### 🔹 Sand Temperature Forecasting *(Ongoing Project)*  
+### 🔹 Sand Temperature Forecasting  
 Currently building a real-time prediction system using industrial sensor data and ML models  
 > Tools: Python, ML Models, Streamlit, API Integration  
 
