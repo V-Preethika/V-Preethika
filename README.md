@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Preethika V
 
-🎓 B.Tech AIML Student at **Vel Tech R&D Institute of Science and Technology**  
+🎓 B.Tech AIML Graduate at **Vel Tech R&D Institute of Science and Technology**  
 💡 Passionate about Artificial Intelligence, Machine Learning, and Real-world Tech Applications  
 🤖 AI/ML Enthusiast | 🧠 Deep Learning Learner | ✨ Exploring Real-World AI Applications  
 
